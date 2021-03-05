@@ -1,0 +1,8 @@
+cabeca doi igual verdadeiro entao dor de cabeca
+moleza igual verdadeiro entao cansaco
+febre igual verdadeiro & cansaco igual verdadeiro entao dengue
+febre igual verdadeiro & dor de cabeca igual verdadeiro entao gripe
+febre igual falso & dor de cabeca igual verdadeiro entao enxaqueca
+febre igual verdadeiro & dor de cabeca igual verdadeiro & falta de ar igual verdadeiro entao covid19
+temperatura maior ou igual 38 entao febre
+temperatura menor ou igual 36 entao hipotermia
